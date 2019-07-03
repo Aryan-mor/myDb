@@ -1,8 +1,6 @@
 {
   "product" : [
   {
-  "items": [
-    {
       "id": "1",
       "name": "بلیت تخفیف استخر سروش",
       "base_price": "3000",
@@ -52,8 +50,7 @@
       "basket_item_count": "0",
       "img": "https://cdn.takhfifan.com/media/catalog/product/cache/1/gallery/600x372/85e4522595efc69f496374d01ef2bf13/i/m/img_0113_1.jpg"
     }
-  ]
-}],
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
